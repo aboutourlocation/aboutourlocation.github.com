@@ -5,8 +5,3 @@ http://www.iteruni.com/index.html
 http://www.iteruni.com/pages.html
 http://www.iteruni.com/sitemap.txt
 http://www.iteruni.com/tags.html
-
-http://www.iteruni.com/Systems/sys103
-http://www.iteruni.com/Systems/sys102
-http://www.iteruni.com/Systems/sys101
-http://www.iteruni.com/Learning/lrn101
