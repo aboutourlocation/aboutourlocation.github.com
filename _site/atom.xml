@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Iterative University</title>
+ <link href="http://www.iteruni.com/atom.xml" rel="self"/>
+ <link href="http://www.iteruni.com"/>
+ <updated>2012-09-17T23:29:05+07:00</updated>
+ <id>http://www.iteruni.com</id>
+ <author>
+   <name>Eric Hosick</name>
+   <email>erichosick@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>SYS103 - Introduction to Systems Thinking</title>
+   <link href="http://www.iteruni.com/Systems/sys103"/>
+   <updated>2012-09-16T00:00:00+07:00</updated>
+   <id>http://www.iteruni.com/Systems/sys103</id>
+   <content type="html">&lt;h2 id='intended_learning_outcome_ilo'&gt;Intended Learning Outcome (ILO)&lt;/h2&gt;
+
+&lt;p&gt;After taking this session you should be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;describe which disciplines use physical and/or modelled systems&lt;/li&gt;
+
+&lt;li&gt;describe different system frameworks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='prerequisites'&gt;Prerequisites&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id='introduction'&gt;Introduction&lt;/h2&gt;
+
+&lt;h2 id='frameworks'&gt;Frameworks&lt;/h2&gt;
+
+&lt;h3 id='closed_systems'&gt;Closed Systems&lt;/h3&gt;
+
+&lt;p&gt;transfer of energy and information between boundary of system.&lt;/p&gt;
+
+&lt;h3 id='open_systems'&gt;Open Systems&lt;/h3&gt;
+
+&lt;p&gt;continually interacting with environment: exchange materials, energy and information.&lt;/p&gt;
+
+&lt;h3 id='isolated_systems'&gt;Isolated Systems&lt;/h3&gt;
+
+&lt;p&gt;nothing crosses the boundary. The universe might be isolated? If truly isolated, could we see it?&lt;/p&gt;
+
+&lt;h2 id='physical_and_modelled_systems'&gt;Physical and Modelled Systems&lt;/h2&gt;
+
+&lt;h3 id='physical_systems'&gt;Physical Systems&lt;/h3&gt;
+
+&lt;h3 id='modelled_systems'&gt;Modelled Systems&lt;/h3&gt;
+
+&lt;h2 id='emergent_behaviour'&gt;Emergent Behaviour&lt;/h2&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>SYS102 - Systems Thinking</title>
+   <link href="http://www.iteruni.com/Systems/sys102"/>
+   <updated>2012-09-15T00:00:00+07:00</updated>
+   <id>http://www.iteruni.com/Systems/sys102</id>
+   <content type="html">&lt;h2 id='4444'&gt;Prerequisites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='/Systems/sys101'&gt;SYS101 - Introduction to Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='intended_learning_outcome_ilo'&gt;Intended Learning Outcome (ILO)&lt;/h2&gt;
+
+&lt;p&gt;After taking this session you should be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One&lt;/li&gt;
+
+&lt;li&gt;Two&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='introduction'&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;In &lt;a href='/Systems/sys101'&gt;SYS101&lt;/a&gt;, I introduced you the basic idea of a system defined as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“A [system is a] whole that cannot be divided into independent parts without losing its essential characteristics as a whole”. (Ackoff, 1981, pp. 64-65)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In this session,&lt;/p&gt;
+
+&lt;h2 id='what_is_systems_thinking'&gt;What is Systems Thinking&lt;/h2&gt;
+
+&lt;p&gt;There are a lot of ways to approach solving problems. In mathematics, we learn how to&lt;/p&gt;
+
+&lt;h2 id='frameworks'&gt;Frameworks&lt;/h2&gt;
+
+&lt;h3 id='closed_systems'&gt;Closed Systems&lt;/h3&gt;
+
+&lt;h3 id='open_systems'&gt;Open Systems&lt;/h3&gt;
+
+&lt;h3 id='isolated_systems'&gt;Isolated Systems&lt;/h3&gt;
+
+&lt;h2 id='physical_and_modelled_systems'&gt;Physical and Modelled Systems&lt;/h2&gt;
+
+&lt;h3 id='physical_systems'&gt;Physical Systems&lt;/h3&gt;
+
+&lt;h3 id='modelled_systems'&gt;Modelled Systems&lt;/h3&gt;
+
+&lt;h2 id='emergent_behaviour'&gt;Emergent Behaviour&lt;/h2&gt;
+
+&lt;h2 id='more_information'&gt;More Information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wikipedia.org &lt;a href='http://en.wikipedia.org/wiki/Systems'&gt;Systems&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Wikipedia.org &lt;a href='http://en.wikipedia.org/wiki/Russell_L._Ackoff'&gt;Russell L. Ackoff&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>SYS101 - Introduction to Systems</title>
+   <link href="http://www.iteruni.com/Systems/sys101"/>
+   <updated>2012-09-15T00:00:00+07:00</updated>
+   <id>http://www.iteruni.com/Systems/sys101</id>
+   <content type="html">&lt;h2 id='prerequisites'&gt;Prerequisites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='intended_learning_outcome_ilo'&gt;Intended Learning Outcome (ILO)&lt;/h2&gt;
+
+&lt;p&gt;After taking this session you should be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;distinguish between natural systems and man made systems.&lt;/li&gt;
+
+&lt;li&gt;describe how disciplines view systems.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='introduction'&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;I am going to provide two definitions of what a system is but I don&amp;#8217;t expect you to understand them right now.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A system is a set (grouping/composition) of two or more interacting objects that form an integrated whole with a purpose.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“A [system is a] whole that cannot be divided into independent parts without losing its essential characteristics as a whole”. (Ackoff, 1981, pp. 64-65)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Those seem simple enough, but there is a lot more to systems than a few definitions. Let&amp;#8217;s look at a few examples and see how they relate to the definitions we have so far.&lt;/p&gt;
+
+&lt;h2 id='manmade_and_natural_systems'&gt;Manmade and Natural Systems&lt;/h2&gt;
+
+&lt;p&gt;We can group systems into natural systems and manmade systems.&lt;/p&gt;
+
+&lt;h3 id='natural_systems_example'&gt;Natural Systems Example&lt;/h3&gt;
+
+&lt;p&gt;Natural systems are systems that exist in nature. They were not created by people. &lt;em&gt;&lt;a href='#sys101-img1'&gt;Image-1&lt;/a&gt;&lt;/em&gt; shows some examples of natural systems.&lt;/p&gt;
+&lt;div class='figure' id='sys101-img1'&gt;
+&lt;p&gt;&lt;img alt='Examples of natural systems.' src='/assets/img/systemExampleNatural.jpg' /&gt;&lt;/p&gt;
+&lt;h1&gt;Image-1: Examples of natural systems.&lt;/h1&gt;
+&lt;/div&gt;
+&lt;p&gt;I say examples because this image contains more than one natural system. The tree in the foreground is a system. The forest in the background is a system.&lt;/p&gt;
+
+&lt;p&gt;What makes me say these are systems? Let&amp;#8217;s consider the tree. It has a trunk, needles/leaves and sap (among other things). These are the parts of the tree that, as a whole, form that tree. These parts work together so the tree can survive: survival being a possible purpose of a tree. If any of those parts were to be removed, the tree would not be able to survive.&lt;/p&gt;
+
+&lt;p&gt;If you look back up at the definitions of a system, they may make a little more sense. As a quick exercise, try considering the forest as a system. What are it&amp;#8217;s parts? How do they work together. What is it&amp;#8217;s purpose?&lt;/p&gt;
+
+&lt;h3 id='manmade_systems_example'&gt;Manmade Systems Example&lt;/h3&gt;
+
+&lt;p&gt;Manmade systems are systems created by people. These systems did not exist in nature until people came along and created them. &lt;em&gt;&lt;a href='#sys101-img2'&gt;Image-2&lt;/a&gt;&lt;/em&gt; shows some examples of man made systems.&lt;/p&gt;
+&lt;div class='figure' id='sys101-img2'&gt;
+&lt;p&gt;&lt;img alt='Examples of manmade systems.' src='/assets/img/systemExampleManmade.jpg' /&gt;&lt;/p&gt;
+&lt;h1&gt;Image-2: Examples of manmade systems.&lt;/h1&gt;
+&lt;/div&gt;
+&lt;p&gt;Again, I say examples, because there is more than one man made system in &lt;em&gt;&lt;a href='#sys101-img2'&gt;Image-2&lt;/a&gt;&lt;/em&gt;. The roads, buildings, motorcycles, cars and even the city are all man made systems. There are even a few natural systems in &lt;em&gt;&lt;a href='#sys101-img2'&gt;Image-2&lt;/a&gt;&lt;/em&gt;: trees and people.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#8217;s consider the road system in &lt;em&gt;&lt;a href='#sys101-img2'&gt;Image-2&lt;/a&gt;&lt;/em&gt;. It contains roads, bikes, pedestrians, cross-walks, and cars (among other things). These parts work together so things can move from one place to another place: potentially one purpose of a road system.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#8217;s check some of the parts of our system to assure our system &amp;#8220;cannot be divided into independent parts without losing its essential characteristics as a whole&amp;#8221;. If we remove the cars, bikes and people from our road system, then the road system can no longer transport anything. So, these seem to be parts that are necessary.&lt;/p&gt;
+
+&lt;p&gt;How about the cross walks. Are they necessary? If we remove them, can we still move things from one place to another place? Probably. So, are they really essential? For the stated purpose they are not necessary. However, what if we said the purpose of a road is to transport something from one place to another place as safely as possible? We would then require cross walks as part of our transportation system?&lt;/p&gt;
+
+&lt;p&gt;A pattern seems to be emerging. The parts required are defined by the purpose of the system. We&amp;#8217;ll delve more into this in a later session.&lt;/p&gt;
+
+&lt;h2 id='disciplines_of_systems'&gt;Disciplines of Systems&lt;/h2&gt;
+
+&lt;p&gt;We&amp;#8217;ve covered two types of systems: natural and manmade. Let&amp;#8217;s also consider systems based on disciplines:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Sciences&lt;/li&gt;
+
+&lt;li&gt;Engineering&lt;/li&gt;
+
+&lt;li&gt;The Arts&lt;/li&gt;
+
+&lt;li&gt;Social Systems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Each of these disciplines approach how they view systems differently. However, provided is approach quick introduction even though we could have entire sessions on each of these disciplines.&lt;/p&gt;
+
+&lt;h3 id='the_sciences_and_systems'&gt;The Sciences and Systems&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href='#sys101-img3'&gt;Image-3&lt;/a&gt;&lt;/em&gt; represents a simulation of a gas-cloud as it approaches a black hole. Quite impressive. The sciences attempt to describe real world systems such as the universe and living organisms.&lt;/p&gt;
+&lt;div class='figure' id='sys101-img3'&gt;
+&lt;p&gt;&lt;img alt='Examples of manmade systems.' src='/assets/img/systemExampleDisciplineScience.jpeg' /&gt;&lt;/p&gt;
+&lt;h1&gt;Image-3: The sciences attempt to describe real world systems.&lt;/h1&gt;
+&lt;/div&gt;
+&lt;p&gt;Scientists use observation and experimentation to figure out how the real world works. For example, a scientist may want to know how fast an object falls on earth. So, they run experiments (in this case probably dropping something) and observe the results.&lt;/p&gt;
+
+&lt;h3 id='engineering_and_systems'&gt;Engineering and Systems&lt;/h3&gt;
+
+&lt;p&gt;Engineering involves the design and creation of physical manmade systems. Examples of such systems are dams, buildings and cars.&lt;/p&gt;
+&lt;div class='figure' id='sys101-img4'&gt;
+&lt;p&gt;&lt;img alt='Examples of manmade systems.' src='/assets/img/systemExampleDisciplineEngineering.jpg' /&gt;&lt;/p&gt;
+&lt;h1&gt;Image-4: A cutaway of a steam engine.&lt;/h1&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href='#sys101-img4'&gt;Image-4&lt;/a&gt;&lt;/em&gt; is a steam engine created by Engineers. Is it interesting to note that Engineers take advantage of scientific discoveries.&lt;/p&gt;
+
+&lt;h3 id='the_arts_and_systems'&gt;The Arts and Systems&lt;/h3&gt;
+
+&lt;p&gt;The Arts are involved in creating and/or using abstract, non-physical, systems. Examples are mathematics, software development, musicians and artists.&lt;/p&gt;
+&lt;div class='figure' id='sys101-img5'&gt;
+&lt;p&gt;&lt;img alt='Examples of manmade systems.' src='/assets/img/systemExampleDisciplineMathematics.jpg' /&gt;&lt;/p&gt;
+&lt;h1&gt;Image-5: The abacus is a tool used to perform arithmetic calculations.&lt;/h1&gt;
+&lt;/div&gt;
+&lt;h3 id='social_systems'&gt;Social Systems&lt;/h3&gt;
+
+&lt;p&gt;People involved in Social Systems study how people interact with each other within systems. Examples of social systems are politics and religion.&lt;/p&gt;
+&lt;div class='figure' id='sys101-img6'&gt;
+&lt;p&gt;&lt;img alt='Examples of manmade systems.' src='/assets/img/systemExampleDisciplineSocial.jpg' /&gt;&lt;/p&gt;
+&lt;h1&gt;Image-6: A gravestone depicting a woman with her slave.&lt;/h1&gt;
+&lt;/div&gt;
+&lt;h2 id='assignments'&gt;Assignments&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;In your own words, and with regards to systems, how does engineering, the sciences and software development differ.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Create two lists&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a list of natural systems&lt;/li&gt;
+
+&lt;li&gt;a list of man made systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Consider social systems like human interaction.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Is this a natural system or a man made system?&lt;/li&gt;
+
+&lt;li&gt;Where does ethics fall in-to all of this?&lt;/li&gt;
+
+&lt;li&gt;How about culture?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Think about a car and all the parts contained within a car.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Choose a specific high end car and come up with a purpose for that car.&lt;/li&gt;
+
+&lt;li&gt;Create a list of car parts based on a car whose only purpose is to get from point a to point b.&lt;/li&gt;
+
+&lt;li&gt;Compare the above two cars.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id='more_information'&gt;More Information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wikipedia.org &lt;a href='http://en.wikipedia.org/wiki/Systems'&gt;Systems&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Wikipedia.org &lt;a href='http://en.wikipedia.org/wiki/Russell_L._Ackoff'&gt;Russell L. Ackoff&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='references'&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Image-3 from Wikipedia.org, &lt;a href='http://en.wikipedia.org/wiki/File:Simulation_of_gas_cloud_after_close_approach_to_the_black_hole_at_the_centre_of_the_Milky_Way.jpg'&gt;Black Hole at Centre of Milky Way&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;Image-4 from Wikipedia.org, &lt;a href='http://sv.wikipedia.org/wiki/Fil:Cutaway_steam_locomotive.jpg'&gt;Cutaway of Steam Locomotive&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;Image-5 from Wikipedia.org, &lt;a href='http://cs.wikipedia.org/wiki/Soubor:Abacus-5822.jpg'&gt;Abacus&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;Image-6 from Wikipedia.org, &lt;a href='http://en.wikipedia.org/wiki/File:Grabstein_einer_Frau_mit_Dienerin.jpg'&gt;Gravestone Depiction&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>LRN101 - Introduction to Learning</title>
+   <link href="http://www.iteruni.com/Learning/lrn101"/>
+   <updated>2012-09-15T00:00:00+07:00</updated>
+   <id>http://www.iteruni.com/Learning/lrn101</id>
+   <content type="html"></content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="pragma" content="no-cache"/>
+    <meta name="author" content="{{ site.author.name }}">
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+
+		<link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+		<link href="http://fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet" type="text/css">
+
+		<!--[if lt IE 9]>
+		<style type="text/css">
+    	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			#controlbar_container { display: none; }
+		</style>
+		<![endif]-->
+		<title>{{ page.class }} - {{ page.description_main }}</title>
+  </head>
+
+  <body>
+     <div id="controlbar_container">
+         <div id="controlbar" class="hover_capable">
+						<div id="nav">
+							<ul>
+								<li><a href="#" class="textbutton">Sessions</a>
+									<ul>
+											{% include JB/setup %}
+											{% for category in site.categories %} 
+											<li>
+											  <a href="#">{{ category[0] | join: "/" }}</a>
+											  <ul>
+											    {% assign pages_list = category[1] %}  
+											    {% include JB/pages_list %}
+											  </ul>
+											</li>
+											{% endfor %}
+									</ul>
+								</li>
+							</ul>	
+						</div>
+						<div id="left_buttons">
+							<a href="/" class="textbutton">Home</a>
+						</div>
+             <div class="title_text" id="title_label">{{ page.class }} - {{ page.description_main }}</div>
+         </div>
+     </div>
+				
+    <div id="content">
+      {{ content }}
+    </div>
+    <footer>
+      <p>&copy; <a href="http://twitter.com/{{ site.author.twitter }}" target="_blank" title="Follow me on twitter to stay informed on new Sessions.">{{ site.author.name }}</a> 2012 
+        with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>.
+      </p>
+    </footer>
+
+		{% include JB/analytics %}
+	</body>
+</html>
+
